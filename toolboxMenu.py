@@ -8,7 +8,7 @@ def mainMenu():
 -=-=-=-=-=- ****'s ToolBox -=-=-=-=-=-
 
 1 - Inversor de Texto
-2 - Organizador de numeros em sequencia
+2 - Organizador de numeros inteiros em sequencia
 x - 
 x - 
 0 - Fechar toolbox
